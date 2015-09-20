@@ -1,0 +1,8 @@
+node_modules/*
+public/data/*
+*.sln
+*.njsproj
+*.suo
+.ntvs_analysis.dat
+bin/*
+obj/*
